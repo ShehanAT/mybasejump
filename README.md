@@ -8,7 +8,7 @@ Clementine.js is a lightweight boilerplate for fullstack JavaScript development 
 
 The [Free Code Camp](http://www.freecodecamp.com) version of Clementine.js is meant for use when completing projects as part of the FCC curriculum. This version includes GitHub authentication using [Passport](http://passportjs.org/).
 
-## Versions
+## Versions 
 
 There are 3 versions of Clementine.js:
 
